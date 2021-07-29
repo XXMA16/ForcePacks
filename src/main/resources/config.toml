@@ -1,0 +1,11 @@
+# things that appear in the console log
+[console]
+    success = false
+    kicks = false
+    bypass = false
+    failed = true
+
+# custom messages
+# use minimessages formatting
+[messages]
+    kick = "<red>You need to accept the server resourcepacks in order to play"
